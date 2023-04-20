@@ -1,4 +1,4 @@
-package com.softserve.edu01.Practicaltasks01;
+package com.softserve.Lesson01.Practicaltasks01;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
